@@ -1,1 +1,2 @@
-console.log('hello world from branch A');
+console.log('hello world from branch beta');
+console.log('hello world from branch B');
